@@ -1,7 +1,8 @@
 # README: Causal Inference and Interpretability in Developer Interaction
 
-This notebook explores causal inference and interpretability techniques to understand the relationships between various factors in developer interactions,
-specifically focusing on how different variables impact 'ET' (estimated time).
+The datasets utilized for this study include Eclipse, OpenStack, and Mozilla, which are stored in the files workingdataE.csv, workingdataO.csv, and Final_df_Mozilla.csv, respectively. The interaction network was constructed directly from the raw Mozilla dataset using the workflow implemented in Network_Creation.ipynb.
+
+This notebook explores causal inference and interpretability techniques to understand the relationships between various factors in developer interactions, specifically focusing on how different variables impact 'ET' (estimated time).
 
 The steps followed are:
 1.  Setup and Data Loading
@@ -11,3 +12,4 @@ The steps followed are:
 5.  Causal SHAP Integration
 6.  Refutation Tests
 7.  Normalization and Global  Feature Importance
+
