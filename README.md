@@ -13,3 +13,13 @@ The steps followed are:
 6.  Refutation Tests
 7.  Normalization and Global  Feature Importance
 
+
+The version used are as follows:
+causallearn version: 0.1.4.7
+dowhy version: 0.0.0
+numpy version: 2.0.2
+pandas version: 2.2.2
+networkx version: 3.6.1
+matplotlib version: 3.10.0
+seaborn version: 0.13.2
+The random seed for NumPy is set to 0. 
