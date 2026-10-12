@@ -17,9 +17,9 @@ The steps followed are:
 The version used are as follows:
 causallearn version: 0.1.4.8
 dowhy version: 0.14
-numpy version: 2.1.3
-pandas version: 2.2.3
-python: 3.13.15
+numpy version: 2.0.2
+pandas version: 2.2.2
+python: 3.12
 graphviz (Python package): 0.20.3
 networkx version: 3.6.1
 matplotlib version: 3.10.0
